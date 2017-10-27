@@ -21,7 +21,12 @@ Create/start Virtualenv:
   $ source bin/activate
 ```
 
-Run Flask
+Install Flask and dependencies
+```
+  $ pip install -r requirements.txt
+```
+
+Run the Flask application
 ```
   $ export FLASK_APP=run.py
   $ flask run
