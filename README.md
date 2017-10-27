@@ -5,8 +5,8 @@ Flask rewrite of scout-hybrid application
 aksdjfaslkdf
 
 ### Prerequisites
-* sdf
-* virtualenv
+* Python
+* Virtualenv
 
 ### Installation
 
