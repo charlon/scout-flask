@@ -1,13 +1,17 @@
 # scout-hybrid
 Flask rewrite of scout-hybrid application
 
+## Getting Started
+aksdjfaslkdf
 
-## Clone
+### Prerequisites
+* sdf
+
+### Installation
+Clone this repository
 ```
   $ git clone
 ```
-
-## Blah
 ```
   $ export FLASK_APP=run.py
   $ flask run
