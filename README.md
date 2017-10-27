@@ -8,7 +8,7 @@ Flask rewrite of scout-hybrid application
 ```
 
 ## Blah
-
+```
   $ export FLASK_APP=run.py
   $ flask run
-
+```
