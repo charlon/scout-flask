@@ -3,13 +3,11 @@ Flask rewrite of scout-hybrid application
 
 
 ## Clone
-'''
-$ git clone
-'''
+
+  $ git clone
 
 ## Blah
 
-'''
-$ export FLASK_APP=run.py
-$ flask run
-'''
+  $ export FLASK_APP=run.py
+  $ flask run
+
