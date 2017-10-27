@@ -28,3 +28,8 @@ Run the Flask application
   $ export FLASK_APP=run.py
   $ flask run
 ```
+
+View the application in a browser:
+```
+  http://127.0.0.1:5000/
+```
