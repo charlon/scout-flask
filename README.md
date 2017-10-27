@@ -3,8 +3,9 @@ Flask rewrite of scout-hybrid application
 
 
 ## Clone
-
+```
   $ git clone
+```
 
 ## Blah
 
