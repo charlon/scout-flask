@@ -9,8 +9,8 @@ Flask rewrite of Scout - which uses Turbolinks to handle the HTML content.
 
 Clone this repository:
 ```
-  $ git clone https://github.com/charlon/scout-hybrid.git
-  $ cd scout-hybrid
+  $ git clone https://github.com/charlon/scout-flask.git
+  $ cd scout-flask
 ```
 Create/start Virtualenv:
 ```
