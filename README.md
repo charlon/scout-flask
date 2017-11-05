@@ -1,5 +1,5 @@
 # scout-hybrid
-Flask rewrite of Scout's hybrid application with uses Turbolinks to handle the HTML content.
+Flask rewrite of Scout - which uses Turbolinks to handle the HTML content.
 
 ### Prerequisites
 * Python
