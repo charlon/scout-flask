@@ -1,4 +1,4 @@
-# scout-hybrid
+# scout-flask
 Flask rewrite of Scout - which uses Turbolinks to handle the HTML content.
 
 ### Prerequisites
